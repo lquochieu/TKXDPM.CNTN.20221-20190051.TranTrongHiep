@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="8975.9326610671" y="3051.5">controller.User.UserController</node>
+    <node x="9680.9326610671" y="937.0">model.Cart.CartItem</node>
+    <node x="0.0" y="7522.0">views.mediaUser.MediaItemFrame</node>
+    <node x="10512.414372287793" y="4306.0">views.cart.BillPanel</node>
+    <node x="6680.571513332534" y="2285.0">aims.DateService</node>
+    <node x="6283.846153846154" y="3167.5">views.order.OrderMediaDetailListPanel</node>
+    <node x="4870.721153846154" y="3764.0">views.Admin.Sales.MediaSaleList</node>
+    <node x="8344.543735554755" y="4248.5">views.Admin.User.UserPanel</node>
+    <node x="10757.997705621126" y="5282.0">views.HomeUser.HomeUser</node>
+    <node x="7240.707301580721" y="1478.5">model.Cart.Order</node>
+    <node x="6373.571513332534" y="2357.0">views.order.OrderMediaDetailPanel</node>
+    <node x="9636.991596186754" y="3182.5">controller.Cart.OrderController</node>
+    <node x="12660.795622287793" y="2240.5">views.cart.ShippingInfoPanel</node>
+    <node x="11271.914372287793" y="4350.0">views.cart.test.TestShip</node>
+    <node x="21.5" y="1435.0">model.Media.Book</node>
+    <node x="1430.208333333334" y="7136.0">views.mediaAdmin.MediaListPanel</node>
+    <node x="612.0" y="7522.0">views.Admin.Product.Product</node>
+    <node x="8400.235042735043" y="3721.0">views.Admin.User.EditAccountPanel</node>
+    <node x="2392.0" y="7522.0">views.Admin.Order.Order</node>
+    <node x="7641.279846665867" y="1609.5">aims.FormatNumber</node>
+    <node x="2337.9798816191637" y="3764.0">views.mediaAdmin.MediaList</node>
+    <node x="9058.0881799992" y="4920.0">views.Admin.AccountPanelAdmin</node>
+    <node x="12070.914372287793" y="2168.0">views.cart.CheckOut</node>
+    <node x="4378.516415652436" y="1038.5">model.Media.MediaItem</node>
+    <node x="3219.3125000000005" y="6251.0">model.Media.Media</node>
+    <node x="4337.346153846154" y="3678.0">controller.Search.SearchController</node>
+    <node x="1902.0" y="7522.0">views.mediaAdmin.MediaItem</node>
+    <node x="11977.014372287793" y="2993.0">views.cart.ChangeAddress</node>
+    <node x="10744.414372287793" y="4291.5">views.cart.CartList</node>
+    <node x="7043.571513332534" y="3764.0">views.order.OrderDetail</node>
+    <node x="9426.46274836275" y="5663.0">views.account.Login</node>
+    <node x="2637.0" y="7522.0">views.cart.test.LabelFont</node>
+    <node x="10073.414372287793" y="4905.5">views.account.UserPanel.AccountPanel</node>
+    <node x="12214.526141219892" y="4277.0">views.cart.DeliveryPanel</node>
+    <node x="11251.956038954459" y="5765.0">views.HomeUser.TestHomeUser</node>
+    <node x="9363.9326610671" y="2284.5">model.User.Account</node>
+    <node x="5972.846153846154" y="3051.0">model.Sale.Sale</node>
+    <node x="2476.5000000000005" y="1464.0">model.Media.DVD</node>
+    <node x="9637.062748362749" y="6014.0">views.account.TestLogin</node>
+    <node x="1672.5" y="1507.5">model.Media.CD</node>
+    <node x="5071.221153846154" y="4219.0">views.Admin.Sales.MediaSalePanel</node>
+    <node x="8051.235042735043" y="3721.0">views.Admin.User.CreateAccountPanel</node>
+    <node x="10768.914372287793" y="4905.0">views.cart.CartPanel</node>
+    <node x="4229.1390102734495" y="4176.0">views.MediaList.mediaListPanel</node>
+    <node x="9818.46274836275" y="5765.0">views.account.TestSignUp</node>
+    <node x="8961.3381799992" y="5311.0">views.Admin.Home</node>
+    <node x="8834.7381799992" y="4321.0">views.account.ChangePassword</node>
+    <node x="9612.741596186754" y="5325.5">views.account.SignUp</node>
+    <node x="12535.50470610024" y="361.0">model.Cart.ShippingInfo</node>
+    <node x="10792.466596186754" y="3735.5">views.Admin.User.ViewInformation</node>
+    <node x="9970.69845610024" y="2343.0">aims.PaymentService</node>
+    <node x="1412.0" y="7522.0">views.mediaAdmin.MediaEditFrame</node>
+    <node x="1280.1678564272952" y="361.0">model.Media.PhysicalGood</node>
+    <node x="1657.0" y="7522.0">views.cart.test.NewJFrame</node>
+    <node x="11215.466596186754" y="3750.0">views.account.UserPanel.AccountInformation</node>
+    <node x="402.0" y="7522.0">model.Media.Track</node>
+    <node x="5483.596153846154" y="3749.5">views.Admin.Sales.SaleDetailPanel</node>
+    <node x="8875.785042735042" y="6014.0">aims.AIMS</node>
+    <node x="3318.5000000000005" y="1566.5">controller.Media.MediaController</node>
+    <node x="870.5" y="1507.5">model.Media.LP</node>
+    <node x="12803.083122287793" y="3167.5">views.cart.ShippingList</node>
+    <node x="38.16785642729519" y="7150.0">views.mediaAdmin.EditBookPanel</node>
+    <node x="4888.718338729359" y="3036.5">views.Admin.Sales.MediaSaleItemPanel</node>
+    <node x="2069.59654828583" y="3109.5">views.mediaAdmin.MediaItemPanel</node>
+    <node x="1047.9178564272952" y="2182.5">views.mediaAdmin.MediaAddFrame</node>
+    <node x="2146.297184883206" y="4320.5">views.mediaAdmin.MediaPanel</node>
+    <node x="2147.0" y="7522.0">views.mediaUser.MediaItem</node>
+    <node x="4043.3461538461543" y="3794.0">views.MediaList.mediaList</node>
+    <node x="7718.235042735043" y="3110.0">controller.Cart.CartController</node>
+    <node x="12357.4139110671" y="0.0">model.Cart.Ward</node>
+    <node x="1031.0" y="7522.0">views.mediaAdmin.EditDvdPanel</node>
+    <node x="10400.466596186754" y="3619.0">views.cart.CartItemPanel</node>
+    <node x="6843.551708686147" y="1038.5">model.Cart.OrderItem</node>
+    <node x="5981.596153846154" y="4335.5">views.Admin.Sales.SaleListPanel</node>
+    <node x="12336.983122287793" y="3720.5">views.cart.ShippingPanel</node>
+    <node x="7408.078296703297" y="7380.0">views.cart.test.Test</node>
+    <node x="5804.596153846154" y="3794.0">controller.Sale.SalesController</node>
+    <node x="2860.950714952497" y="3065.5">views.MediaList.mediaItem</node>
+    <node x="8651.38595610024" y="5765.0">views.Admin.TestAdminHome</node>
+    <node x="7088.321513332534" y="4306.5">views.order.OrderListPanel</node>
+    <node x="5274.371153130593" y="2284.0">model.Sale.MediaSale</node>
+    <node x="5813.096153846154" y="4891.0">views.Admin.HomePanel</node>
+    <node x="2120.2471848832056" y="7179.5">views.mediaAdmin.mediaTest</node>
+    <node x="3844.3461538461543" y="4978.0">views.MediaList.mediaTest</node>
+    <node x="9705.69845610024" y="2255.0">model.User.User</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aims.AIMS" target="model.User.Account">
+      <point x="-60.899999999999636" y="-33.5" />
+      <point x="8901.885042735044" y="5984.0" />
+      <point x="8018.735042735043" y="5984.0" />
+      <point x="8018.735042735043" y="2863.0" />
+      <point x="9375.387206521646" y="2863.0" />
+      <point x="-114.54545454545496" y="121.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSalePanel" target="views.Admin.Sales.MediaSaleList">
+      <point x="-102.28571428571468" y="-179.5" />
+      <point x="5147.93543956044" y="4156.0" />
+      <point x="5169.054487179487" y="4156.0" />
+      <point x="119.33333333333303" y="63.5" />
+    </edge>
+    <edge source="views.mediaAdmin.EditBookPanel" target="model.Media.Book">
+      <point x="0.0" y="-78.0" />
+      <point x="225.6678564272952" y="7116.0" />
+      <point x="168.6678564272952" y="7116.0" />
+      <point x="168.6678564272952" y="2148.0" />
+      <point x="176.9375" y="2148.0" />
+      <point x="-259.0625" y="266.5" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountInformation" target="controller.User.UserController">
+      <point x="-111.71428571428623" y="-77.5" />
+      <point x="11299.252310472468" y="3459.0" />
+      <point x="9320.8076610671" y="3459.0" />
+      <point x="166.875" y="164.5" />
+    </edge>
+    <edge source="model.Cart.Order" target="model.User.User">
+      <point x="130.03571428571422" y="223.0" />
+      <point x="7536.243015866436" y="2008.0" />
+      <point x="9766.94845610024" y="2008.0" />
+      <point x="-61.25" y="-150.5" />
+    </edge>
+    <edge source="controller.User.UserController" target="model.Cart.Ward">
+      <point x="-142.39999999999964" y="-164.5" />
+      <point x="9011.5326610671" y="2843.0" />
+      <point x="7276.071513332534" y="2843.0" />
+      <point x="7276.071513332534" y="2028.0" />
+      <point x="6738.843375352814" y="2028.0" />
+      <point x="6738.843375352814" y="331.0" />
+      <point x="12382.113911067101" y="331.0" />
+      <point x="-98.79999999999927" y="150.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="model.Media.CD">
+      <point x="23.25" y="-106.5" />
+      <point x="2278.84654828583" y="2973.0" />
+      <point x="2280.247184883206" y="2973.0" />
+      <point x="2280.247184883206" y="2088.0" />
+      <point x="2260.5" y="2088.0" />
+      <point x="196.0" y="194.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="model.User.User">
+      <point x="139.3333333333344" y="-121.0" />
+      <point x="10421.747705621126" y="4801.0" />
+      <point x="11770.914372287793" y="4801.0" />
+      <point x="11770.914372287793" y="2823.0" />
+      <point x="9797.57345610024" y="2823.0" />
+      <point x="-30.625" y="150.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="aims.FormatNumber">
+      <point x="162.75" y="-106.5" />
+      <point x="2418.34654828583" y="2963.0" />
+      <point x="3898.891415652436" y="2963.0" />
+      <point x="3898.891415652436" y="2088.0" />
+      <point x="7656.890957776978" y="2088.0" />
+      <point x="-124.88888888888869" y="92.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountInformation" target="model.User.User">
+      <point x="0.0" y="-77.5" />
+      <point x="11410.966596186754" y="3499.0" />
+      <point x="11388.538024758182" y="3499.0" />
+      <point x="11388.538024758182" y="2833.0" />
+      <point x="9785.32345610024" y="2833.0" />
+      <point x="-42.875" y="150.5" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="aims.AIMS">
+      <point x="-47.875" y="150.5" />
+      <point x="3004.575714952497" y="3599.0" />
+      <point x="2962.200714952497" y="3599.0" />
+      <point x="2962.200714952497" y="5994.0" />
+      <point x="8884.485042735043" y="5994.0" />
+      <point x="-78.30000000000018" y="-33.5" />
+    </edge>
+    <edge source="model.Cart.Order" target="model.Cart.OrderItem">
+      <point x="-110.33333333333348" y="-223.0" />
+      <point x="7295.873968247388" y="1405.0" />
+      <point x="7010.801708686147" y="1405.0" />
+      <point x="55.75" y="92.5" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.LP">
+      <point x="-42.55555555555566" y="-150.5" />
+      <point x="3009.8951593969414" y="2863.0" />
+      <point x="2714.763214952497" y="2863.0" />
+      <point x="2714.763214952497" y="2048.0" />
+      <point x="1587.333333333334" y="2048.0" />
+      <point x="325.83333333333394" y="194.0" />
+    </edge>
+    <edge source="controller.Cart.OrderController" target="aims.PaymentService">
+      <point x="51.0" y="-33.5" />
+      <point x="9789.991596186754" y="2953.0" />
+      <point x="10151.44845610024" y="2953.0" />
+      <point x="60.25" y="62.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaList" target="model.Media.Media">
+      <point x="100.66666666666652" y="63.5" />
+      <point x="2589.6465482858302" y="4156.0" />
+      <point x="2555.630518216539" y="4156.0" />
+      <point x="2555.630518216539" y="6121.0" />
+      <point x="3352.6273148148152" y="6121.0" />
+      <point x="-23.18518518518522" y="-382.5" />
+    </edge>
+    <edge source="views.order.OrderMediaDetailPanel" target="aims.FormatNumber">
+      <point x="71.5" y="-48.5" />
+      <point x="6588.071513332534" y="2098.0" />
+      <point x="7688.1131799992" y="2098.0" />
+      <point x="-93.66666666666652" y="92.0" />
+    </edge>
+    <edge source="views.Admin.AccountPanelAdmin" target="views.account.ChangePassword">
+      <point x="-52.25" y="-106.5" />
+      <point x="9214.8381799992" y="4861.0" />
+      <point x="9075.7381799992" y="4861.0" />
+      <point x="0.0" y="77.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="model.Media.Media">
+      <point x="-135.66666666666697" y="135.5" />
+      <point x="5880.929487179487" y="6211.0" />
+      <point x="3503.331018518519" y="6211.0" />
+      <point x="127.5185185185187" y="-382.5" />
+    </edge>
+    <edge source="views.cart.CartList" target="views.cart.CartItemPanel">
+      <point x="0.0" y="-107.0" />
+      <point x="10877.914372287793" y="4076.0" />
+      <point x="10725.966596186754" y="4076.0" />
+      <point x="139.5" y="208.5" />
+    </edge>
+    <edge source="views.order.OrderListPanel" target="views.order.OrderDetail">
+      <point x="-85.5" y="-92.0" />
+      <point x="7173.821513332534" y="4156.0" />
+      <point x="7193.571513332534" y="4156.0" />
+      <point x="50.0" y="63.5" />
+    </edge>
+    <edge source="model.User.User" target="model.Cart.CartItem">
+      <point x="36.75" y="-150.5" />
+      <point x="9864.94845610024" y="2148.0" />
+      <point x="9858.19845610024" y="2148.0" />
+      <point x="9858.19845610024" y="1395.0" />
+      <point x="9789.4326610671" y="1395.0" />
+      <point x="0.0" y="194.0" />
+    </edge>
+    <edge source="controller.Cart.CartController" target="model.Cart.Order">
+      <point x="-36.25" y="-106.0" />
+      <point x="7826.985042735043" y="2943.0" />
+      <point x="7528.078296703297" y="2943.0" />
+      <point x="7528.078296703297" y="2048.0" />
+      <point x="7441.671587295006" y="2048.0" />
+      <point x="35.46428571428578" y="223.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="model.Cart.CartItem">
+      <point x="58.13333333333321" y="-121.5" />
+      <point x="10936.047705621126" y="4841.0" />
+      <point x="11902.914372287793" y="4841.0" />
+      <point x="11902.914372287793" y="1345.0" />
+      <point x="9888.069024703464" y="1345.0" />
+      <point x="98.63636363636397" y="194.0" />
+    </edge>
+    <edge source="views.cart.ShippingPanel" target="views.cart.ShippingList">
+      <point x="-28.75" y="-107.0" />
+      <point x="12423.233122287793" y="3579.0" />
+      <point x="12871.083122287793" y="3579.0" />
+      <point x="-68.0" y="48.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="model.Media.Media">
+      <point x="76.0" y="-92.0" />
+      <point x="1677.208333333334" y="7086.0" />
+      <point x="3313.2125000000005" y="7086.0" />
+      <point x="-62.59999999999991" y="382.5" />
+    </edge>
+    <edge source="model.Sale.Sale" target="aims.DateService">
+      <point x="97.0" y="-165.0" />
+      <point x="6215.346153846154" y="2953.0" />
+      <point x="6766.071513332534" y="2953.0" />
+      <point x="-85.5" y="120.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="controller.Cart.CartController">
+      <point x="-93.91666666666606" y="-135.5" />
+      <point x="10825.08103895446" y="5212.0" />
+      <point x="7835.207301580721" y="5212.0" />
+      <point x="7835.207301580721" y="3599.0" />
+      <point x="7766.568376068377" y="3599.0" />
+      <point x="-96.66666666666652" y="106.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="views.account.ChangePassword">
+      <point x="-46.44444444444525" y="-121.0" />
+      <point x="10235.969927843347" y="4721.0" />
+      <point x="9172.1381799992" y="4721.0" />
+      <point x="96.39999999999964" y="77.5" />
+    </edge>
+    <edge source="views.mediaAdmin.mediaTest" target="views.mediaAdmin.MediaPanel">
+      <point x="-44.5" y="-48.5" />
+      <point x="2164.7471848832065" y="4861.0" />
+      <point x="2182.6971848832054" y="4861.0" />
+      <point x="-145.60000000000036" y="78.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="views.cart.CartList">
+      <point x="-14.533333333333758" y="-121.5" />
+      <point x="10863.38103895446" y="4641.0" />
+      <point x="10788.914372287793" y="4641.0" />
+      <point x="-89.0" y="107.0" />
+    </edge>
+    <edge source="views.Admin.AccountPanelAdmin" target="views.account.UserPanel.AccountInformation">
+      <point x="156.75" y="-106.5" />
+      <point x="9423.8381799992" y="4771.0" />
+      <point x="10733.914372287793" y="4771.0" />
+      <point x="10733.914372287793" y="4136.0" />
+      <point x="11332.766596186753" y="4136.0" />
+      <point x="-78.20000000000073" y="77.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="model.Media.LP">
+      <point x="-114.0" y="-92.0" />
+      <point x="1487.208333333334" y="7056.0" />
+      <point x="457.09214147479906" y="7056.0" />
+      <point x="457.09214147479906" y="2138.0" />
+      <point x="935.6666666666661" y="2138.0" />
+      <point x="-325.83333333333394" y="194.0" />
+    </edge>
+    <edge source="model.Cart.Order" target="model.Cart.CartItem">
+      <point x="110.33333333333348" y="-223.0" />
+      <point x="7516.540634914054" y="1395.0" />
+      <point x="9690.796297430736" y="1395.0" />
+      <point x="-98.63636363636397" y="194.0" />
+    </edge>
+    <edge source="views.cart.ShippingList" target="views.cart.ShippingInfoPanel">
+      <point x="54.399999999999636" y="-48.5" />
+      <point x="12993.483122287793" y="2973.0" />
+      <point x="13013.420622287793" y="2973.0" />
+      <point x="151.125" y="165.0" />
+    </edge>
+    <edge source="views.account.ChangePassword" target="controller.User.UserController">
+      <point x="-120.5" y="-77.5" />
+      <point x="8955.2381799992" y="4076.0" />
+      <point x="9067.3076610671" y="4076.0" />
+      <point x="9067.3076610671" y="3589.0" />
+      <point x="9120.5576610671" y="3589.0" />
+      <point x="-33.375" y="164.5" />
+    </edge>
+    <edge source="views.Admin.Sales.SaleDetailPanel" target="model.Media.Media">
+      <point x="-100.33333333333303" y="78.0" />
+      <point x="5533.762820512821" y="4146.0" />
+      <point x="5566.173414368572" y="4146.0" />
+      <point x="5566.173414368572" y="6201.0" />
+      <point x="3491.7384259259265" y="6201.0" />
+      <point x="115.9259259259261" y="-382.5" />
+    </edge>
+    <edge source="model.Media.Media" target="model.Media.CD">
+      <point x="-81.14814814814827" y="-382.5" />
+      <point x="3294.664351851852" y="6171.0" />
+      <point x="1890.846548285831" y="6171.0" />
+      <point x="1890.846548285831" y="2088.0" />
+      <point x="2129.833333333334" y="2088.0" />
+      <point x="65.33333333333394" y="194.0" />
+    </edge>
+    <edge source="views.mediaAdmin.EditBookPanel" target="model.Media.Media">
+      <point x="125.0" y="-78.0" />
+      <point x="350.6678564272952" y="7076.0" />
+      <point x="3250.6125000000006" y="7076.0" />
+      <point x="-125.19999999999982" y="382.5" />
+    </edge>
+    <edge source="views.cart.DeliveryPanel" target="views.cart.ShippingPanel">
+      <point x="23.6875" y="-121.5" />
+      <point x="12427.713641219892" y="4156.0" />
+      <point x="12451.983122287793" y="4156.0" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="views.MediaList.mediaTest" target="views.MediaList.mediaListPanel">
+      <point x="66.75" y="-48.5" />
+      <point x="4000.0961538461543" y="4871.0" />
+      <point x="4308.8890102734495" y="4871.0" />
+      <point x="-79.75" y="222.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.Admin.Sales.MediaSaleItemPanel">
+      <point x="-33.91666666666697" y="-135.5" />
+      <point x="5982.679487179487" y="4781.0" />
+      <point x="5439.721153846154" y="4781.0" />
+      <point x="5439.721153846154" y="3569.0" />
+      <point x="5237.468338729359" y="3569.0" />
+      <point x="162.75" y="179.5" />
+    </edge>
+    <edge source="model.Media.CD" target="model.Media.PhysicalGood">
+      <point x="196.0" y="-194.0" />
+      <point x="2260.5" y="1415.0" />
+      <point x="2000.4178564272952" y="1415.0" />
+      <point x="2000.4178564272952" y="907.0" />
+      <point x="1672.0428564272952" y="907.0" />
+      <point x="78.375" y="223.0" />
+    </edge>
+    <edge source="controller.Search.SearchController" target="model.Media.Media">
+      <point x="0.0" y="149.5" />
+      <point x="4554.846153846154" y="4126.0" />
+      <point x="4626.906867416306" y="4126.0" />
+      <point x="4626.906867416306" y="6141.0" />
+      <point x="3422.182870370371" y="6141.0" />
+      <point x="46.37037037037044" y="-382.5" />
+    </edge>
+    <edge source="views.Admin.Home" target="views.account.Login">
+      <point x="134.16666666666606" y="106.5" />
+      <point x="9256.504846665866" y="5613.0" />
+      <point x="9519.46274836275" y="5613.0" />
+      <point x="-93.0" y="-135.5" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.Book">
+      <point x="-85.11111111111131" y="-150.5" />
+      <point x="2967.3396038413857" y="2873.0" />
+      <point x="1749.2511897606291" y="2873.0" />
+      <point x="1749.2511897606291" y="2058.0" />
+      <point x="798.6875" y="2058.0" />
+      <point x="362.6875" y="266.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="views.MediaList.mediaListPanel">
+      <point x="-120.75" y="-135.5" />
+      <point x="10798.247705621126" y="5222.0" />
+      <point x="4394.1390102734495" y="5222.0" />
+      <point x="4394.1390102734495" y="4871.0" />
+      <point x="4415.2223436067825" y="4871.0" />
+      <point x="26.58333333333303" y="222.5" />
+    </edge>
+    <edge source="views.MediaList.mediaListPanel" target="controller.Media.MediaController">
+      <point x="-45.57142857142844" y="-222.5" />
+      <point x="4343.067581702021" y="4156.0" />
+      <point x="4326.846153846154" y="4156.0" />
+      <point x="4326.846153846154" y="2943.0" />
+      <point x="4096.769230769231" y="2943.0" />
+      <point x="4096.769230769231" y="2078.0" />
+      <point x="3741.1250000000005" y="2078.0" />
+      <point x="181.125" y="135.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleItemPanel" target="aims.FormatNumber">
+      <point x="148.80000000000018" y="-179.5" />
+      <point x="5223.518338729359" y="2963.0" />
+      <point x="7547.869132380152" y="2963.0" />
+      <point x="7547.869132380152" y="2108.0" />
+      <point x="7719.335402221423" y="2108.0" />
+      <point x="-62.44444444444434" y="92.0" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="aims.AIMS">
+      <point x="46.0" y="135.5" />
+      <point x="10964.997705621126" y="5643.0" />
+      <point x="11241.456038954459" y="5643.0" />
+      <point x="11241.456038954459" y="5984.0" />
+      <point x="9023.685042735044" y="5984.0" />
+      <point x="60.899999999999636" y="-33.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="model.Media.DVD">
+      <point x="96.0" y="-223.0" />
+      <point x="1359.9178564272952" y="2098.0" />
+      <point x="2545.0000000000005" y="2098.0" />
+      <point x="-342.5" y="237.5" />
+    </edge>
+    <edge source="views.cart.CartItemPanel" target="model.Cart.CartItem">
+      <point x="139.5" y="-208.5" />
+      <point x="10725.966596186754" y="3509.0" />
+      <point x="11880.914372287793" y="3509.0" />
+      <point x="11880.914372287793" y="1365.0" />
+      <point x="9848.614479248918" y="1365.0" />
+      <point x="59.18181818181802" y="194.0" />
+    </edge>
+    <edge source="views.cart.ShippingList" target="model.Cart.ShippingInfo">
+      <point x="108.79999999999927" y="-48.5" />
+      <point x="13047.883122287793" y="2973.0" />
+      <point x="13074.295622287793" y="2973.0" />
+      <point x="13074.295622287793" y="897.0" />
+      <point x="12756.092941394356" y="897.0" />
+      <point x="70.58823529411711" y="223.0" />
+    </edge>
+    <edge source="views.Admin.Home" target="views.Admin.AccountPanelAdmin">
+      <point x="40.25" y="-106.5" />
+      <point x="-104.5" y="106.5" />
+    </edge>
+    <edge source="views.cart.test.Test" target="model.Media.Media">
+      <point x="-34.80000000000018" y="-48.5" />
+      <point x="7460.278296703298" y="7350.0" />
+      <point x="3501.0125000000007" y="7350.0" />
+      <point x="125.19999999999982" y="382.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="views.cart.CartPanel">
+      <point x="13.41666666666606" y="-135.5" />
+      <point x="54.5" y="121.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="model.Media.DVD">
+      <point x="38.0" y="-92.0" />
+      <point x="1639.208333333334" y="7066.0" />
+      <point x="2725.763214952497" y="7066.0" />
+      <point x="2725.763214952497" y="2128.0" />
+      <point x="2956.0000000000005" y="2128.0" />
+      <point x="68.5" y="237.5" />
+    </edge>
+    <edge source="views.Admin.Sales.SaleListPanel" target="views.Admin.Sales.SaleDetailPanel">
+      <point x="-40.25" y="-63.0" />
+      <point x="6102.346153846154" y="4126.0" />
+      <point x="5734.429487179487" y="4126.0" />
+      <point x="100.33333333333303" y="78.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleItemPanel" target="model.Media.PhysicalGood">
+      <point x="-148.80000000000018" y="-179.5" />
+      <point x="4925.918338729359" y="2963.0" />
+      <point x="4815.846153846154" y="2963.0" />
+      <point x="4815.846153846154" y="2008.0" />
+      <point x="4335.769230769231" y="2008.0" />
+      <point x="4335.769230769231" y="877.0" />
+      <point x="1828.7928564272952" y="877.0" />
+      <point x="235.125" y="223.0" />
+    </edge>
+    <edge source="views.account.Login" target="views.HomeUser.HomeUser">
+      <point x="119.57142857142935" y="-135.5" />
+      <point x="9732.03417693418" y="5623.0" />
+      <point x="10826.997705621126" y="5623.0" />
+      <point x="-92.0" y="135.5" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="views.cart.BillPanel">
+      <point x="-43.600000000000364" y="-121.5" />
+      <point x="10834.314372287792" y="4661.0" />
+      <point x="10679.08103895446" y="4661.0" />
+      <point x="66.66666666666697" y="92.5" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleList" target="model.Media.Media">
+      <point x="-119.33333333333303" y="63.5" />
+      <point x="4930.387820512821" y="6181.0" />
+      <point x="3468.5532407407413" y="6181.0" />
+      <point x="92.74074074074088" y="-382.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="model.Media.Media">
+      <point x="-108.0" y="223.0" />
+      <point x="1155.9178564272952" y="2963.0" />
+      <point x="854.697754877423" y="2963.0" />
+      <point x="854.697754877423" y="6191.0" />
+      <point x="3271.4791666666674" y="6191.0" />
+      <point x="-104.33333333333303" y="-382.5" />
+    </edge>
+    <edge source="model.Cart.CartItem" target="model.User.User">
+      <point x="-39.45454545454595" y="194.0" />
+      <point x="9749.978115612554" y="1415.0" />
+      <point x="9836.19845610024" y="1415.0" />
+      <point x="9836.19845610024" y="2138.0" />
+      <point x="9815.94845610024" y="2138.0" />
+      <point x="-12.25" y="-150.5" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="views.cart.CartItemPanel">
+      <point x="-29.066666666666606" y="-121.5" />
+      <point x="10848.847705621127" y="4651.0" />
+      <point x="10722.914372287793" y="4651.0" />
+      <point x="10722.914372287793" y="4096.0" />
+      <point x="10539.966596186754" y="4096.0" />
+      <point x="-46.5" y="208.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="views.cart.CheckOut">
+      <point x="120.75" y="-135.5" />
+      <point x="11039.747705621126" y="5252.0" />
+      <point x="12639.295622287793" y="5252.0" />
+      <point x="12639.295622287793" y="2663.0" />
+      <point x="12356.664372287793" y="2663.0" />
+      <point x="95.25" y="237.5" />
+    </edge>
+    <edge source="aims.AIMS" target="views.account.Login">
+      <point x="26.100000000000364" y="-33.5" />
+      <point x="8988.885042735044" y="5964.0" />
+      <point x="9538.06274836275" y="5964.0" />
+      <point x="-74.39999999999964" y="135.5" />
+    </edge>
+    <edge source="views.cart.CartItemPanel" target="controller.Cart.CartController">
+      <point x="-139.5" y="-208.5" />
+      <point x="10446.966596186754" y="3509.0" />
+      <point x="7959.90170940171" y="3509.0" />
+      <point x="96.66666666666652" y="106.0" />
+    </edge>
+    <edge source="views.order.OrderListPanel" target="controller.Cart.OrderController">
+      <point x="142.5" y="-92.0" />
+      <point x="7401.821513332534" y="4086.0" />
+      <point x="9738.991596186754" y="4086.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="model.Media.MediaItem" target="model.Media.Media">
+      <point x="0.0" y="92.5" />
+      <point x="4449.016415652436" y="1415.0" />
+      <point x="4497.093338729359" y="1415.0" />
+      <point x="4497.093338729359" y="2048.0" />
+      <point x="4223.016415652436" y="2048.0" />
+      <point x="4223.016415652436" y="2963.0" />
+      <point x="4032.8461538461543" y="2963.0" />
+      <point x="4032.8461538461543" y="6131.0" />
+      <point x="3410.5902777777783" y="6131.0" />
+      <point x="34.77777777777783" y="-382.5" />
+    </edge>
+    <edge source="views.cart.CheckOut" target="model.Cart.ShippingInfo">
+      <point x="95.25" y="-237.5" />
+      <point x="12356.664372287793" y="887.0" />
+      <point x="12650.210588453181" y="887.0" />
+      <point x="-35.294117647059466" y="223.0" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="model.Cart.ShippingInfo">
+      <point x="147.58333333333394" y="-135.5" />
+      <point x="11066.58103895446" y="5262.0" />
+      <point x="13131.645622287793" y="5262.0" />
+      <point x="13131.645622287793" y="857.0" />
+      <point x="12826.681176688475" y="857.0" />
+      <point x="141.17647058823604" y="223.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSalePanel" target="model.Sale.MediaSale">
+      <point x="102.28571428571468" y="-179.5" />
+      <point x="5352.506868131869" y="4146.0" />
+      <point x="5470.432624443645" y="4146.0" />
+      <point x="5470.432624443645" y="2943.0" />
+      <point x="5373.871153130593" y="2943.0" />
+      <point x="0.0" y="121.5" />
+    </edge>
+    <edge source="model.Cart.ShippingInfo" target="model.Cart.Ward">
+      <point x="0.0" y="-223.0" />
+      <point x="12685.50470610024" y="331.0" />
+      <point x="12530.3139110671" y="331.0" />
+      <point x="49.399999999999636" y="150.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="model.Cart.Order">
+      <point x="79.13888888888869" y="-135.5" />
+      <point x="6095.735042735043" y="4811.0" />
+      <point x="7033.071513332534" y="4811.0" />
+      <point x="7033.071513332534" y="2038.0" />
+      <point x="7252.528730152149" y="2038.0" />
+      <point x="-153.67857142857156" y="223.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleItemPanel" target="model.Media.Media">
+      <point x="-116.25" y="179.5" />
+      <point x="4958.468338729359" y="3589.0" />
+      <point x="4860.221153846154" y="3589.0" />
+      <point x="4860.221153846154" y="6171.0" />
+      <point x="3456.9606481481487" y="6171.0" />
+      <point x="81.14814814814827" y="-382.5" />
+    </edge>
+    <edge source="views.Admin.TestAdminHome" target="views.Admin.Home">
+      <point x="46.5" y="-33.5" />
+      <point x="8790.88595610024" y="5643.0" />
+      <point x="9041.8381799992" y="5643.0" />
+      <point x="-80.5" y="106.5" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSalePanel" target="aims.DateService">
+      <point x="153.42857142857156" y="-179.5" />
+      <point x="5403.649725274726" y="4156.0" />
+      <point x="6937.071513332534" y="4156.0" />
+      <point x="85.5" y="120.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="model.User.User">
+      <point x="40.25" y="-135.5" />
+      <point x="10959.247705621126" y="5222.0" />
+      <point x="11814.914372287793" y="5222.0" />
+      <point x="11814.914372287793" y="2783.0" />
+      <point x="9846.57345610024" y="2783.0" />
+      <point x="18.375" y="150.5" />
+    </edge>
+    <edge source="views.Admin.User.EditAccountPanel" target="model.User.Account">
+      <point x="-109.66666666666697" y="-106.5" />
+      <point x="8455.068376068377" y="3519.0" />
+      <point x="8533.168772178211" y="3519.0" />
+      <point x="8533.168772178211" y="2913.0" />
+      <point x="9489.9326610671" y="2913.0" />
+      <point x="0.0" y="121.0" />
+    </edge>
+    <edge source="views.Admin.Home" target="views.Admin.HomePanel">
+      <point x="-120.75" y="-106.5" />
+      <point x="9001.5881799992" y="5252.0" />
+      <point x="6016.596153846154" y="5252.0" />
+      <point x="0.0" y="135.5" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="views.mediaAdmin.MediaAddFrame">
+      <point x="-170.22222222222217" y="-150.5" />
+      <point x="2882.228492730275" y="2893.0" />
+      <point x="1415.117856427295" y="2893.0" />
+      <point x="151.19999999999982" y="223.0" />
+    </edge>
+    <edge source="views.order.OrderMediaDetailListPanel" target="views.order.OrderMediaDetailPanel">
+      <point x="116.66666666666652" y="-48.5" />
+      <point x="6575.51282051282" y="2943.0" />
+      <point x="6588.071513332534" y="2943.0" />
+      <point x="71.5" y="48.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="controller.Sale.SalesController">
+      <point x="-11.305555555555657" y="-135.5" />
+      <point x="6005.290598290599" y="4771.0" />
+      <point x="5815.279846665867" y="4771.0" />
+      <point x="5815.279846665867" y="4146.0" />
+      <point x="5971.096153846154" y="4146.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="model.User.User" target="model.Cart.Order">
+      <point x="-110.25" y="-150.5" />
+      <point x="9717.94845610024" y="2028.0" />
+      <point x="7488.957301580721" y="2028.0" />
+      <point x="82.75" y="223.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="aims.FormatNumber">
+      <point x="-101.73333333333358" y="-121.5" />
+      <point x="10776.181038954459" y="4701.0" />
+      <point x="7707.735042735043" y="4701.0" />
+      <point x="7707.735042735043" y="2148.0" />
+      <point x="7844.224291110311" y="2148.0" />
+      <point x="62.44444444444434" y="92.0" />
+    </edge>
+    <edge source="views.MediaList.mediaListPanel" target="controller.Search.SearchController">
+      <point x="0.0" y="-222.5" />
+      <point x="4388.6390102734495" y="4156.0" />
+      <point x="4409.846153846154" y="4156.0" />
+      <point x="-145.0" y="149.5" />
+    </edge>
+    <edge source="views.MediaList.mediaListPanel" target="model.Media.MediaItem">
+      <point x="45.57142857142844" y="-222.5" />
+      <point x="4434.210438844878" y="4136.0" />
+      <point x="4782.846153846154" y="4136.0" />
+      <point x="4782.846153846154" y="2018.0" />
+      <point x="4893.862569498589" y="2018.0" />
+      <point x="4893.862569498589" y="1375.0" />
+      <point x="4492.401031037051" y="1375.0" />
+      <point x="43.384615384615245" y="92.5" />
+    </edge>
+    <edge source="controller.Cart.CartController" target="aims.PaymentService">
+      <point x="108.75" y="-106.0" />
+      <point x="7971.985042735043" y="2943.0" />
+      <point x="10030.94845610024" y="2943.0" />
+      <point x="-60.25" y="62.5" />
+    </edge>
+    <edge source="views.account.Login" target="views.account.SignUp">
+      <point x="-13.285714285713766" y="-135.5" />
+      <point x="9599.177034077036" y="5573.0" />
+      <point x="9643.824929520088" y="5573.0" />
+      <point x="-155.41666666666606" y="92.0" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.Admin.User.UserPanel">
+      <point x="146.97222222222263" y="-135.5" />
+      <point x="6163.568376068377" y="4841.0" />
+      <point x="8429.543735554755" y="4841.0" />
+      <point x="-85.0" y="150.0" />
+    </edge>
+    <edge source="views.cart.ShippingInfoPanel" target="model.Cart.ShippingInfo">
+      <point x="100.75" y="-165.0" />
+      <point x="12963.045622287793" y="2148.0" />
+      <point x="12932.79268533754" y="2148.0" />
+      <point x="12932.79268533754" y="907.0" />
+      <point x="12738.445882570828" y="907.0" />
+      <point x="52.9411764705892" y="223.0" />
+    </edge>
+    <edge source="views.Admin.User.UserPanel" target="views.Admin.User.CreateAccountPanel">
+      <point x="-113.33333333333303" y="-150.0" />
+      <point x="8401.210402221423" y="4066.0" />
+      <point x="8133.485042735043" y="4066.0" />
+      <point x="-82.25" y="106.5" />
+    </edge>
+    <edge source="controller.Sale.SalesController" target="model.Sale.MediaSale">
+      <point x="-111.0" y="-33.5" />
+      <point x="5860.096153846154" y="3579.0" />
+      <point x="5801.593375352815" y="3579.0" />
+      <point x="5801.593375352815" y="2923.0" />
+      <point x="5418.093375352815" y="2923.0" />
+      <point x="44.222222222222626" y="121.5" />
+    </edge>
+    <edge source="views.cart.CartItemPanel" target="model.Media.Media">
+      <point x="-139.5" y="208.5" />
+      <point x="10446.966596186754" y="4096.0" />
+      <point x="10501.914372287793" y="4096.0" />
+      <point x="10501.914372287793" y="6231.0" />
+      <point x="3526.5162037037044" y="6231.0" />
+      <point x="150.70370370370392" y="-382.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="views.account.UserPanel.AccountPanel">
+      <point x="-40.25" y="-135.5" />
+      <point x="10878.747705621126" y="5192.0" />
+      <point x="10421.747705621126" y="5192.0" />
+      <point x="139.33333333333394" y="121.0" />
+    </edge>
+    <edge source="views.cart.ChangeAddress" target="model.Cart.Ward">
+      <point x="0.0" y="-223.0" />
+      <point x="12160.514372287793" y="2703.0" />
+      <point x="12005.414372287793" y="2703.0" />
+      <point x="12005.414372287793" y="341.0" />
+      <point x="12431.5139110671" y="341.0" />
+      <point x="-49.399999999999636" y="150.5" />
+    </edge>
+    <edge source="views.Admin.User.UserPanel" target="controller.User.UserController">
+      <point x="75.55555555555566" y="-150.0" />
+      <point x="8590.099291110311" y="4076.0" />
+      <point x="8845.8631799992" y="4076.0" />
+      <point x="8845.8631799992" y="3579.0" />
+      <point x="9098.3076610671" y="3579.0" />
+      <point x="-55.625" y="164.5" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountInformation" target="aims.AIMS">
+      <point x="156.39999999999964" y="77.5" />
+      <point x="11567.366596186754" y="4116.0" />
+      <point x="11740.614372287791" y="4116.0" />
+      <point x="11740.614372287791" y="5994.0" />
+      <point x="9041.085042735043" y="5994.0" />
+      <point x="78.30000000000018" y="-33.5" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountInformation" target="model.Cart.ShippingInfo">
+      <point x="167.57142857142935" y="-77.5" />
+      <point x="11578.538024758183" y="3569.0" />
+      <point x="12650.295622287793" y="3569.0" />
+      <point x="12650.295622287793" y="917.0" />
+      <point x="12703.151764923768" y="917.0" />
+      <point x="17.647058823529733" y="223.0" />
+    </edge>
+    <edge source="views.Admin.User.ViewInformation" target="model.User.Account">
+      <point x="-73.3125" y="-92.0" />
+      <point x="10914.654096186754" y="3499.0" />
+      <point x="10952.529096186754" y="3499.0" />
+      <point x="10952.529096186754" y="2893.0" />
+      <point x="9604.478115612554" y="2893.0" />
+      <point x="114.54545454545496" y="121.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="controller.Media.MediaController">
+      <point x="192.0" y="-223.0" />
+      <point x="1455.9178564272952" y="2138.0" />
+      <point x="3378.8750000000005" y="2138.0" />
+      <point x="-181.125" y="135.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="model.Media.CD">
+      <point x="48.0" y="-223.0" />
+      <point x="1311.9178564272952" y="2088.0" />
+      <point x="1868.5" y="2088.0" />
+      <point x="-196.0" y="194.0" />
+    </edge>
+    <edge source="controller.Search.SearchController" target="model.Media.MediaItem">
+      <point x="108.75" y="-149.5" />
+      <point x="4663.596153846154" y="3599.0" />
+      <point x="4490.7640102734495" y="3599.0" />
+      <point x="4490.7640102734495" y="2078.0" />
+      <point x="4726.985164119603" y="2078.0" />
+      <point x="4726.985164119603" y="1385.0" />
+      <point x="4481.554877190898" y="1385.0" />
+      <point x="32.53846153846189" y="92.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="model.Media.CD">
+      <point x="0.0" y="-92.0" />
+      <point x="1601.208333333334" y="7056.0" />
+      <point x="1879.846548285831" y="7056.0" />
+      <point x="1879.846548285831" y="2078.0" />
+      <point x="1999.166666666667" y="2078.0" />
+      <point x="-65.33333333333303" y="194.0" />
+    </edge>
+    <edge source="views.Admin.User.UserPanel" target="model.User.Account">
+      <point x="-151.1111111111113" y="-150.0" />
+      <point x="8363.432624443645" y="4076.0" />
+      <point x="8040.735042735043" y="4076.0" />
+      <point x="8040.735042735043" y="2883.0" />
+      <point x="9421.205388339826" y="2883.0" />
+      <point x="-68.72727272727298" y="121.0" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.order.OrderListPanel">
+      <point x="124.36111111111131" y="-135.5" />
+      <point x="6140.957264957266" y="4831.0" />
+      <point x="7216.571513332534" y="4831.0" />
+      <point x="-42.75" y="92.0" />
+    </edge>
+    <edge source="views.order.OrderDetail" target="model.Cart.Order">
+      <point x="16.666666666666515" y="-63.5" />
+      <point x="7160.2381799992" y="2048.0" />
+      <point x="7276.171587295006" y="2048.0" />
+      <point x="-130.03571428571422" y="223.0" />
+    </edge>
+    <edge source="model.Media.PhysicalGood" target="model.Media.Media">
+      <point x="-287.375" y="223.0" />
+      <point x="1306.2928564272952" y="867.0" />
+      <point x="0.0" y="867.0" />
+      <point x="0.0" y="6231.0" />
+      <point x="3225.108796296297" y="6231.0" />
+      <point x="-150.70370370370347" y="-382.5" />
+    </edge>
+    <edge source="views.cart.CartList" target="model.Cart.CartItem">
+      <point x="89.0" y="-107.0" />
+      <point x="10966.914372287793" y="4146.0" />
+      <point x="11891.914372287793" y="4146.0" />
+      <point x="11891.914372287793" y="1355.0" />
+      <point x="9868.34175197619" y="1355.0" />
+      <point x="78.90909090909008" y="194.0" />
+    </edge>
+    <edge source="views.cart.CartItemPanel" target="aims.FormatNumber">
+      <point x="-46.5" y="-208.5" />
+      <point x="10539.966596186754" y="3499.0" />
+      <point x="9342.4326610671" y="3499.0" />
+      <point x="9342.4326610671" y="2148.0" />
+      <point x="7875.446513332534" y="2148.0" />
+      <point x="93.66666666666652" y="92.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaPanel" target="views.mediaAdmin.MediaItemPanel">
+      <point x="0.0" y="-78.0" />
+      <point x="2327.4798816191637" y="3599.0" />
+      <point x="2224.59654828583" y="3599.0" />
+      <point x="-31.0" y="106.5" />
+    </edge>
+    <edge source="views.Admin.User.ViewInformation" target="controller.User.UserController">
+      <point x="-122.1875" y="-92.0" />
+      <point x="10865.779096186754" y="3479.0" />
+      <point x="9276.3076610671" y="3479.0" />
+      <point x="122.375" y="164.5" />
+    </edge>
+    <edge source="views.Admin.Sales.SaleListPanel" target="model.Sale.Sale">
+      <point x="120.75" y="-63.0" />
+      <point x="6263.346153846154" y="4146.0" />
+      <point x="6340.06230325746" y="4146.0" />
+      <point x="6340.06230325746" y="3599.0" />
+      <point x="6191.096153846154" y="3599.0" />
+      <point x="72.75" y="165.0" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.DVD">
+      <point x="42.55555555555566" y="-150.5" />
+      <point x="3095.0062705080527" y="2933.0" />
+      <point x="3364.8125000000005" y="2933.0" />
+      <point x="3364.8125000000005" y="2128.0" />
+      <point x="3093.0000000000005" y="2128.0" />
+      <point x="205.5" y="237.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaPanel" target="model.Media.Media">
+      <point x="0.0" y="78.0" />
+      <point x="2328.297184883206" y="4871.0" />
+      <point x="2266.497184883206" y="4871.0" />
+      <point x="2266.497184883206" y="6131.0" />
+      <point x="3341.0347222222226" y="6131.0" />
+      <point x="-34.77777777777783" y="-382.5" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="model.Cart.Order">
+      <point x="-92.88888888888869" y="-121.0" />
+      <point x="10189.525483398904" y="4731.0" />
+      <point x="7506.078296703297" y="4731.0" />
+      <point x="7506.078296703297" y="2068.0" />
+      <point x="7394.3858730092925" y="2068.0" />
+      <point x="-11.821428571428442" y="223.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="model.User.User">
+      <point x="43.600000000000364" y="-121.5" />
+      <point x="10921.514372287793" y="4831.0" />
+      <point x="11803.914372287793" y="4831.0" />
+      <point x="11803.914372287793" y="2793.0" />
+      <point x="9834.32345610024" y="2793.0" />
+      <point x="6.125" y="150.5" />
+    </edge>
+    <edge source="views.Admin.Sales.SaleDetailPanel" target="model.Sale.Sale">
+      <point x="75.25" y="-78.0" />
+      <point x="5709.346153846154" y="3589.0" />
+      <point x="5997.096153846154" y="3589.0" />
+      <point x="-121.25" y="165.0" />
+    </edge>
+    <edge source="model.Sale.Sale" target="model.Sale.MediaSale">
+      <point x="0.0" y="-165.0" />
+      <point x="6118.346153846154" y="2903.0" />
+      <point x="5462.315597575037" y="2903.0" />
+      <point x="88.44444444444434" y="121.5" />
+    </edge>
+    <edge source="views.cart.test.Test" target="model.User.User">
+      <point x="69.59999999999991" y="-48.5" />
+      <point x="7564.678296703298" y="7360.0" />
+      <point x="11847.914372287793" y="7360.0" />
+      <point x="11847.914372287793" y="2753.0" />
+      <point x="9883.32345610024" y="2753.0" />
+      <point x="55.125" y="150.5" />
+    </edge>
+    <edge source="model.Cart.CartItem" target="model.Media.PhysicalGood">
+      <point x="-54.25" y="-194.0" />
+      <point x="9735.1826610671" y="867.0" />
+      <point x="1881.0428564272952" y="867.0" />
+      <point x="287.375" y="223.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="controller.Media.MediaController">
+      <point x="116.25" y="-106.5" />
+      <point x="2371.84654828583" y="2923.0" />
+      <point x="3353.8125000000005" y="2923.0" />
+      <point x="3353.8125000000005" y="2148.0" />
+      <point x="3499.6250000000005" y="2148.0" />
+      <point x="-60.375" y="135.0" />
+    </edge>
+    <edge source="model.Media.LP" target="model.Media.PhysicalGood">
+      <point x="195.5" y="-194.0" />
+      <point x="1457.0" y="1415.0" />
+      <point x="1197.4178564272952" y="1415.0" />
+      <point x="1197.4178564272952" y="917.0" />
+      <point x="1567.5428564272952" y="917.0" />
+      <point x="-26.125" y="223.0" />
+    </edge>
+    <edge source="views.cart.test.TestShip" target="views.cart.ShippingPanel">
+      <point x="58.0" y="-48.5" />
+      <point x="11416.914372287793" y="4156.0" />
+      <point x="12375.316455621127" y="4156.0" />
+      <point x="-76.66666666666606" y="107.0" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.MediaItem">
+      <point x="85.11111111111131" y="-150.5" />
+      <point x="3137.5618260636084" y="2943.0" />
+      <point x="3812.0000000000005" y="2943.0" />
+      <point x="3812.0000000000005" y="1375.0" />
+      <point x="4394.785646421667" y="1375.0" />
+      <point x="-54.23076923076951" y="92.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaList" target="views.mediaAdmin.MediaItemPanel">
+      <point x="100.66666666666652" y="-63.5" />
+      <point x="2589.6465482858302" y="3569.0" />
+      <point x="2410.59654828583" y="3569.0" />
+      <point x="155.0" y="106.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="controller.Search.SearchController">
+      <point x="-101.75" y="-135.5" />
+      <point x="5914.846153846154" y="4811.0" />
+      <point x="4637.906867416306" y="4811.0" />
+      <point x="4637.906867416306" y="4126.0" />
+      <point x="4699.846153846154" y="4126.0" />
+      <point x="145.0" y="149.5" />
+    </edge>
+    <edge source="views.MediaList.mediaListPanel" target="views.MediaList.mediaList">
+      <point x="-136.71428571428532" y="-222.5" />
+      <point x="4251.924724559164" y="4156.0" />
+      <point x="4111.596153846154" y="4156.0" />
+      <point x="-68.25" y="33.5" />
+    </edge>
+    <edge source="views.order.OrderListPanel" target="model.Cart.Order">
+      <point x="28.5" y="-92.0" />
+      <point x="7287.821513332534" y="4156.0" />
+      <point x="7265.071513332534" y="4156.0" />
+      <point x="7265.071513332534" y="2078.0" />
+      <point x="7347.100158723579" y="2078.0" />
+      <point x="-59.10714285714266" y="223.0" />
+    </edge>
+    <edge source="model.Media.Book" target="model.Media.PhysicalGood">
+      <point x="207.25" y="-266.5" />
+      <point x="643.25" y="1415.0" />
+      <point x="371.9178564272952" y="1415.0" />
+      <point x="371.9178564272952" y="897.0" />
+      <point x="1463.0428564272952" y="897.0" />
+      <point x="-130.625" y="223.0" />
+    </edge>
+    <edge source="views.Admin.User.UserPanel" target="views.Admin.User.ViewInformation">
+      <point x="113.33333333333303" y="-150.0" />
+      <point x="8627.877068888089" y="4106.0" />
+      <point x="10890.216596186754" y="4106.0" />
+      <point x="-97.75" y="92.0" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="model.Sale.Sale">
+      <point x="56.527777777777374" y="-135.5" />
+      <point x="6073.123931623932" y="4801.0" />
+      <point x="6351.06230325746" y="4801.0" />
+      <point x="6351.06230325746" y="3589.0" />
+      <point x="6239.596153846154" y="3589.0" />
+      <point x="121.25" y="165.0" />
+    </edge>
+    <edge source="views.cart.ChangeAddress" target="model.Cart.ShippingInfo">
+      <point x="146.79999999999927" y="-223.0" />
+      <point x="12307.314372287792" y="2973.0" />
+      <point x="12462.414372287793" y="2973.0" />
+      <point x="12462.414372287793" y="897.0" />
+      <point x="12667.857647276709" y="897.0" />
+      <point x="-17.647058823529733" y="223.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountInformation" target="views.cart.ChangeAddress">
+      <point x="55.85714285714312" y="-77.5" />
+      <point x="11466.823739043897" y="3539.0" />
+      <point x="12129.931038954459" y="3539.0" />
+      <point x="-30.58333333333394" y="223.0" />
+    </edge>
+    <edge source="views.mediaAdmin.mediaTest" target="model.Media.Media">
+      <point x="44.5" y="-48.5" />
+      <point x="2253.7471848832056" y="7106.0" />
+      <point x="3438.4125000000004" y="7106.0" />
+      <point x="62.59999999999991" y="382.5" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSalePanel" target="model.Media.Media">
+      <point x="-119.33333333333303" y="179.5" />
+      <point x="5130.887820512821" y="6191.0" />
+      <point x="3480.145833333334" y="6191.0" />
+      <point x="104.33333333333348" y="-382.5" />
+    </edge>
+    <edge source="model.Media.Media" target="model.Media.LP">
+      <point x="-115.92592592592564" y="-382.5" />
+      <point x="3259.886574074075" y="6201.0" />
+      <point x="713.0949397606282" y="6201.0" />
+      <point x="713.0949397606282" y="2148.0" />
+      <point x="1066.0" y="2148.0" />
+      <point x="-195.5" y="194.0" />
+    </edge>
+    <edge source="model.Media.Media" target="model.Media.DVD">
+      <point x="0.0" y="-382.5" />
+      <point x="3375.8125000000005" y="6101.0" />
+      <point x="3392.763214952497" y="6101.0" />
+      <point x="3392.763214952497" y="2118.0" />
+      <point x="3230.0000000000005" y="2118.0" />
+      <point x="342.5" y="237.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="model.Media.DVD">
+      <point x="69.75" y="-106.5" />
+      <point x="2325.34654828583" y="2913.0" />
+      <point x="2603.054881619163" y="2913.0" />
+      <point x="2603.054881619163" y="2118.0" />
+      <point x="2819.0000000000005" y="2118.0" />
+      <point x="-68.5" y="237.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="model.Media.Book">
+      <point x="-162.75" y="-106.5" />
+      <point x="2092.84654828583" y="2933.0" />
+      <point x="468.09214147479906" y="2933.0" />
+      <point x="468.09214147479906" y="2128.0" />
+      <point x="487.8125" y="2128.0" />
+      <point x="51.8125" y="266.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.mediaAdmin.MediaPanel">
+      <point x="-169.58333333333303" y="-135.5" />
+      <point x="5847.012820512821" y="4841.0" />
+      <point x="2473.8971848832057" y="4841.0" />
+      <point x="145.5999999999999" y="78.0" />
+    </edge>
+    <edge source="views.order.OrderDetail" target="aims.FormatNumber">
+      <point x="83.33333333333303" y="-63.5" />
+      <point x="7226.904846665867" y="3599.0" />
+      <point x="7674.735042735043" y="3599.0" />
+      <point x="7674.735042735043" y="2118.0" />
+      <point x="7750.557624443645" y="2118.0" />
+      <point x="-31.22222222222217" y="92.0" />
+    </edge>
+    <edge source="views.Admin.User.UserPanel" target="views.Admin.User.EditAccountPanel">
+      <point x="-37.777777777777374" y="-150.0" />
+      <point x="8476.765957776977" y="4076.0" />
+      <point x="8482.485042735043" y="4076.0" />
+      <point x="-82.25" y="106.5" />
+    </edge>
+    <edge source="views.cart.CheckOut" target="aims.FormatNumber">
+      <point x="-95.25" y="-237.5" />
+      <point x="12166.164372287793" y="1988.0" />
+      <point x="7906.6687355547565" y="1988.0" />
+      <point x="124.88888888888914" y="92.0" />
+    </edge>
+    <edge source="views.account.Login" target="aims.AIMS">
+      <point x="0.0" y="135.5" />
+      <point x="9612.46274836275" y="5974.0" />
+      <point x="9006.285042735042" y="5974.0" />
+      <point x="43.5" y="-33.5" />
+    </edge>
+    <edge source="views.Admin.User.EditAccountPanel" target="controller.User.UserController">
+      <point x="0.0" y="-106.5" />
+      <point x="8564.735042735043" y="3549.0" />
+      <point x="9031.5576610671" y="3549.0" />
+      <point x="-122.375" y="164.5" />
+    </edge>
+    <edge source="views.cart.ShippingPanel" target="model.Cart.ShippingInfo">
+      <point x="86.25" y="-107.0" />
+      <point x="12538.233122287793" y="3599.0" />
+      <point x="13098.645622287793" y="3599.0" />
+      <point x="13098.645622287793" y="887.0" />
+      <point x="12773.740000217887" y="887.0" />
+      <point x="88.23529411764684" y="223.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleItemPanel" target="model.Sale.MediaSale">
+      <point x="0.0" y="-179.5" />
+      <point x="5074.718338729359" y="2943.0" />
+      <point x="5307.5378197972595" y="2943.0" />
+      <point x="-66.33333333333303" y="121.5" />
+    </edge>
+    <edge source="views.HomeUser.HomeUser" target="views.account.Login">
+      <point x="-46.0" y="135.5" />
+      <point x="10872.997705621126" y="5633.0" />
+      <point x="9758.605605505607" y="5633.0" />
+      <point x="146.14285714285688" y="-135.5" />
+    </edge>
+    <edge source="views.MediaList.mediaList" target="model.Media.MediaItem">
+      <point x="91.0" y="-33.5" />
+      <point x="4270.846153846154" y="3599.0" />
+      <point x="4431.062087196526" y="3599.0" />
+      <point x="4431.062087196526" y="2058.0" />
+      <point x="4705.1390102734495" y="2058.0" />
+      <point x="4705.1390102734495" y="1405.0" />
+      <point x="4459.86256949859" y="1405.0" />
+      <point x="10.846153846154266" y="92.5" />
+    </edge>
+    <edge source="views.order.OrderDetail" target="views.order.OrderMediaDetailListPanel">
+      <point x="-50.0" y="-63.5" />
+      <point x="7093.571513332534" y="3589.0" />
+      <point x="6546.346153846154" y="3589.0" />
+      <point x="87.5" y="48.5" />
+    </edge>
+    <edge source="views.MediaList.mediaList" target="views.MediaList.mediaItem">
+      <point x="0.0" y="-33.5" />
+      <point x="4179.846153846154" y="3589.0" />
+      <point x="3196.075714952497" y="3589.0" />
+      <point x="143.625" y="150.5" />
+    </edge>
+    <edge source="model.Media.Media" target="model.Media.Book">
+      <point x="-127.51851851851825" y="-382.5" />
+      <point x="3248.293981481482" y="6211.0" />
+      <point x="281.9206715440905" y="6211.0" />
+      <point x="281.9206715440905" y="2148.0" />
+      <point x="384.1875" y="2148.0" />
+      <point x="-51.8125" y="266.5" />
+    </edge>
+    <edge source="model.User.User" target="model.Cart.ShippingInfo">
+      <point x="110.25" y="-150.5" />
+      <point x="9938.44845610024" y="2148.0" />
+      <point x="12027.414372287793" y="2148.0" />
+      <point x="12027.414372287793" y="847.0" />
+      <point x="12579.622353159062" y="847.0" />
+      <point x="-105.88235294117658" y="223.0" />
+    </edge>
+    <edge source="views.Admin.User.ViewInformation" target="views.cart.ChangeAddress">
+      <point x="122.1875" y="-92.0" />
+      <point x="11110.154096186754" y="3529.0" />
+      <point x="12068.764372287793" y="3529.0" />
+      <point x="-91.75" y="223.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="views.order.OrderListPanel">
+      <point x="-185.77777777777737" y="-121.0" />
+      <point x="10096.636594510015" y="4751.0" />
+      <point x="7302.071513332534" y="4751.0" />
+      <point x="42.75" y="92.0" />
+    </edge>
+    <edge source="model.Media.Media" target="aims.AIMS">
+      <point x="139.1111111111113" y="-382.5" />
+      <point x="3514.9236111111118" y="6221.0" />
+      <point x="8962.785042735042" y="6221.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="controller.Media.MediaController" target="model.Media.MediaItem">
+      <point x="0.0" y="-135.0" />
+      <point x="3560.0000000000005" y="1365.0" />
+      <point x="4383.939492575513" y="1365.0" />
+      <point x="-65.07692307692287" y="92.5" />
+    </edge>
+    <edge source="views.MediaList.mediaTest" target="model.Media.MediaItem">
+      <point x="-22.25" y="-48.5" />
+      <point x="3911.0961538461543" y="2953.0" />
+      <point x="4140.016415652436" y="2953.0" />
+      <point x="4140.016415652436" y="2038.0" />
+      <point x="4408.593338729359" y="2038.0" />
+      <point x="4408.593338729359" y="1415.0" />
+      <point x="4438.170261806282" y="1415.0" />
+      <point x="-10.846153846154266" y="92.5" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSalePanel" target="views.Admin.Sales.MediaSaleItemPanel">
+      <point x="0.0" y="-179.5" />
+      <point x="5250.221153846154" y="3579.0" />
+      <point x="5190.968338729359" y="3579.0" />
+      <point x="116.25" y="179.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.Admin.Sales.MediaSalePanel">
+      <point x="-56.527777777777374" y="-135.5" />
+      <point x="5960.068376068377" y="4791.0" />
+      <point x="5369.554487179487" y="4791.0" />
+      <point x="119.33333333333303" y="179.5" />
+    </edge>
+    <edge source="views.order.OrderDetail" target="model.Cart.OrderItem">
+      <point x="-16.666666666666515" y="-63.5" />
+      <point x="7126.904846665868" y="3579.0" />
+      <point x="6670.071513332534" y="3579.0" />
+      <point x="6670.071513332534" y="2078.0" />
+      <point x="7008.846153846154" y="2078.0" />
+      <point x="7008.846153846154" y="1415.0" />
+      <point x="6973.635042019481" y="1415.0" />
+      <point x="18.583333333333485" y="92.5" />
+    </edge>
+    <edge source="views.account.SignUp" target="controller.User.UserController">
+      <point x="-139.875" y="-92.0" />
+      <point x="9659.366596186754" y="5252.0" />
+      <point x="9560.069247701904" y="5252.0" />
+      <point x="9560.069247701904" y="3579.0" />
+      <point x="9209.5576610671" y="3579.0" />
+      <point x="55.625" y="164.5" />
+    </edge>
+    <edge source="model.Cart.OrderItem" target="model.Media.Media">
+      <point x="-92.91666666666652" y="92.5" />
+      <point x="6862.135042019481" y="1395.0" />
+      <point x="6749.843375352814" y="1395.0" />
+      <point x="6749.843375352814" y="2048.0" />
+      <point x="4826.846153846154" y="2048.0" />
+      <point x="4826.846153846154" y="6151.0" />
+      <point x="3433.7754629629635" y="6151.0" />
+      <point x="57.96296296296305" y="-382.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="model.Media.LP">
+      <point x="-23.25" y="-106.5" />
+      <point x="2232.34654828583" y="2903.0" />
+      <point x="1738.2511897606291" y="2903.0" />
+      <point x="1738.2511897606291" y="2068.0" />
+      <point x="1457.0" y="2068.0" />
+      <point x="195.5" y="194.0" />
+    </edge>
+    <edge source="views.account.ChangePassword" target="aims.AIMS">
+      <point x="-192.79999999999927" y="77.5" />
+      <point x="8882.9381799992" y="4871.0" />
+      <point x="8640.88595610024" y="4871.0" />
+      <point x="8640.88595610024" y="5964.0" />
+      <point x="8936.685042735044" y="5964.0" />
+      <point x="-26.100000000000364" y="-33.5" />
+    </edge>
+    <edge source="views.cart.ShippingPanel" target="model.User.User">
+      <point x="-86.25" y="-107.0" />
+      <point x="12365.733122287793" y="3549.0" />
+      <point x="12486.014372287793" y="3549.0" />
+      <point x="12486.014372287793" y="2683.0" />
+      <point x="9944.57345610024" y="2683.0" />
+      <point x="116.375" y="150.5" />
+    </edge>
+    <edge source="controller.User.UserController" target="model.Cart.ShippingInfo">
+      <point x="142.39999999999964" y="-164.5" />
+      <point x="9296.3326610671" y="2973.0" />
+      <point x="12049.414372287793" y="2973.0" />
+      <point x="12049.414372287793" y="867.0" />
+      <point x="12614.916470806122" y="867.0" />
+      <point x="-70.58823529411711" y="223.0" />
+    </edge>
+    <edge source="views.account.Login" target="views.Admin.Home">
+      <point x="-172.71428571428623" y="-135.5" />
+      <point x="9439.748462648464" y="5643.0" />
+      <point x="9095.504846665866" y="5643.0" />
+      <point x="-26.83333333333394" y="106.5" />
+    </edge>
+    <edge source="views.cart.test.Test" target="views.mediaAdmin.MediaListPanel">
+      <point x="-69.59999999999991" y="-48.5" />
+      <point x="7425.478296703298" y="7360.0" />
+      <point x="1601.208333333334" y="7360.0" />
+      <point x="0.0" y="92.0" />
+    </edge>
+    <edge source="controller.Cart.OrderController" target="model.Cart.Order">
+      <point x="-51.0" y="-33.5" />
+      <point x="9687.991596186754" y="2933.0" />
+      <point x="9626.4326610671" y="2933.0" />
+      <point x="9626.4326610671" y="2038.0" />
+      <point x="7465.314444437863" y="2038.0" />
+      <point x="59.10714285714266" y="223.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaPanel" target="views.mediaAdmin.MediaList">
+      <point x="145.5999999999999" y="-78.0" />
+      <point x="2473.8971848832057" y="4156.0" />
+      <point x="2488.9798816191637" y="4156.0" />
+      <point x="0.0" y="63.5" />
+    </edge>
+    <edge source="views.order.OrderMediaDetailListPanel" target="model.Cart.OrderItem">
+      <point x="-116.66666666666652" y="-48.5" />
+      <point x="6342.179487179488" y="2943.0" />
+      <point x="6293.343375352814" y="2943.0" />
+      <point x="6293.343375352814" y="2058.0" />
+      <point x="6760.843375352814" y="2058.0" />
+      <point x="6760.843375352814" y="1405.0" />
+      <point x="6899.301708686147" y="1405.0" />
+      <point x="-55.75" y="92.5" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.CD">
+      <point x="0.0" y="-150.5" />
+      <point x="3052.450714952497" y="2913.0" />
+      <point x="3062.7284927302744" y="2913.0" />
+      <point x="3062.7284927302744" y="2038.0" />
+      <point x="2391.1666666666665" y="2038.0" />
+      <point x="326.6666666666665" y="194.0" />
+    </edge>
+    <edge source="views.account.SignUp" target="model.User.Account">
+      <point x="46.625" y="-92.0" />
+      <point x="9845.866596186754" y="5252.0" />
+      <point x="9851.491596186754" y="5252.0" />
+      <point x="9851.491596186754" y="2923.0" />
+      <point x="9558.659933794374" y="2923.0" />
+      <point x="68.72727272727298" y="121.0" />
+    </edge>
+    <edge source="views.order.OrderListPanel" target="aims.FormatNumber">
+      <point x="85.5" y="-92.0" />
+      <point x="7344.821513332534" y="4076.0" />
+      <point x="7685.735042735043" y="4076.0" />
+      <point x="7685.735042735043" y="2128.0" />
+      <point x="7781.779846665867" y="2128.0" />
+      <point x="0.0" y="92.0" />
+    </edge>
+    <edge source="model.Media.DVD" target="model.Media.PhysicalGood">
+      <point x="205.5" y="-237.5" />
+      <point x="3093.0000000000005" y="1415.0" />
+      <point x="2823.417856427295" y="1415.0" />
+      <point x="2823.417856427295" y="887.0" />
+      <point x="1776.5428564272952" y="887.0" />
+      <point x="182.875" y="223.0" />
+    </edge>
+    <edge source="views.account.TestSignUp" target="views.account.SignUp">
+      <point x="43.5" y="-33.5" />
+      <point x="9948.96274836275" y="5603.0" />
+      <point x="9954.65826285342" y="5603.0" />
+      <point x="155.41666666666606" y="92.0" />
+    </edge>
+    <edge source="controller.User.UserController" target="model.User.Account">
+      <point x="-71.20000000000073" y="-164.5" />
+      <point x="9082.732661067099" y="2923.0" />
+      <point x="9512.84175197619" y="2923.0" />
+      <point x="22.90909090909099" y="121.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaPanel" target="views.mediaAdmin.MediaAddFrame">
+      <point x="-72.80000000000018" y="-78.0" />
+      <point x="2255.4971848832056" y="4146.0" />
+      <point x="1269.4178564272952" y="4146.0" />
+      <point x="1269.4178564272952" y="2973.0" />
+      <point x="1285.5178564272956" y="2973.0" />
+      <point x="21.600000000000364" y="223.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="views.mediaAdmin.MediaAddFrame">
+      <point x="-116.25" y="-106.5" />
+      <point x="2139.34654828583" y="2923.0" />
+      <point x="1328.7178564272954" y="2923.0" />
+      <point x="64.79999999999995" y="223.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="controller.Cart.CartController">
+      <point x="-87.19999999999982" y="-121.5" />
+      <point x="10790.714372287792" y="4691.0" />
+      <point x="7846.207301580721" y="4691.0" />
+      <point x="7846.207301580721" y="3599.0" />
+      <point x="7863.235042735043" y="3599.0" />
+      <point x="0.0" y="106.0" />
+    </edge>
+    <edge source="views.Admin.User.ViewInformation" target="model.Cart.ShippingInfo">
+      <point x="171.0625" y="-92.0" />
+      <point x="11159.029096186754" y="3559.0" />
+      <point x="12617.295622287793" y="3559.0" />
+      <point x="12617.295622287793" y="907.0" />
+      <point x="12685.50470610024" y="907.0" />
+      <point x="0.0" y="223.0" />
+    </edge>
+    <edge source="views.cart.test.TestShip" target="model.User.User">
+      <point x="-58.0" y="-48.5" />
+      <point x="11300.914372287793" y="4116.0" />
+      <point x="11193.966596186754" y="4116.0" />
+      <point x="11193.966596186754" y="2863.0" />
+      <point x="9748.57345610024" y="2863.0" />
+      <point x="-79.625" y="150.5" />
+    </edge>
+    <edge source="controller.Cart.CartController" target="model.Cart.CartItem">
+      <point x="36.25" y="-106.0" />
+      <point x="7899.485042735043" y="2853.0" />
+      <point x="9353.4326610671" y="2853.0" />
+      <point x="9353.4326610671" y="1415.0" />
+      <point x="9730.250842885282" y="1415.0" />
+      <point x="-59.18181818181802" y="194.0" />
+    </edge>
+    <edge source="views.cart.test.Test" target="model.Cart.Order">
+      <point x="0.0" y="-48.5" />
+      <point x="7495.078296703297" y="7340.0" />
+      <point x="7440.821513332534" y="7340.0" />
+      <point x="7440.821513332534" y="2078.0" />
+      <point x="7370.743015866436" y="2078.0" />
+      <point x="-35.46428571428578" y="223.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="model.Media.Book">
+      <point x="-192.0" y="-223.0" />
+      <point x="1071.9178564272952" y="2128.0" />
+      <point x="591.4375" y="2128.0" />
+      <point x="155.4375" y="266.5" />
+    </edge>
+    <edge source="views.cart.DeliveryPanel" target="model.Cart.ShippingInfo">
+      <point x="165.8125" y="-121.5" />
+      <point x="12569.838641219892" y="4156.0" />
+      <point x="13120.645622287793" y="4156.0" />
+      <point x="13120.645622287793" y="867.0" />
+      <point x="12809.034117864947" y="867.0" />
+      <point x="123.52941176470631" y="223.0" />
+    </edge>
+    <edge source="views.cart.CartPanel" target="views.cart.DeliveryPanel">
+      <point x="72.66666666666697" y="-121.5" />
+      <point x="10950.58103895446" y="4851.0" />
+      <point x="12277.692807886559" y="4851.0" />
+      <point x="-126.33333333333394" y="121.5" />
+    </edge>
+    <edge source="views.order.OrderMediaDetailPanel" target="model.Cart.OrderItem">
+      <point x="-71.5" y="-48.5" />
+      <point x="6445.071513332534" y="2068.0" />
+      <point x="6890.846153846154" y="2068.0" />
+      <point x="6890.846153846154" y="1415.0" />
+      <point x="6936.468375352813" y="1415.0" />
+      <point x="-18.583333333333485" y="92.5" />
+    </edge>
+    <edge source="model.Cart.CartItem" target="model.Cart.ShippingInfo">
+      <point x="54.25" y="-194.0" />
+      <point x="9843.6826610671" y="827.0" />
+      <point x="12544.328235512003" y="827.0" />
+      <point x="-141.17647058823604" y="223.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="views.account.UserPanel.AccountInformation">
+      <point x="92.88888888888869" y="-121.0" />
+      <point x="10375.303261176681" y="4791.0" />
+      <point x="11729.614372287791" y="4791.0" />
+      <point x="11729.614372287791" y="4126.0" />
+      <point x="11489.166596186755" y="4126.0" />
+      <point x="78.20000000000073" y="77.5" />
+    </edge>
+    <edge source="views.HomeUser.TestHomeUser" target="views.HomeUser.HomeUser">
+      <point x="43.5" y="-33.5" />
+      <point x="11382.456038954459" y="5623.0" />
+      <point x="11056.997705621126" y="5623.0" />
+      <point x="138.0" y="135.5" />
+    </edge>
+    <edge source="views.account.TestLogin" target="views.account.Login">
+      <point x="43.5" y="-33.5" />
+      <point x="9767.562748362749" y="5974.0" />
+      <point x="9761.26274836275" y="5974.0" />
+      <point x="148.79999999999927" y="135.5" />
+    </edge>
+    <edge source="views.Admin.Sales.SaleDetailPanel" target="model.Sale.MediaSale">
+      <point x="-75.25" y="-78.0" />
+      <point x="5558.846153846154" y="2933.0" />
+      <point x="5395.982264241704" y="2933.0" />
+      <point x="22.111111111111313" y="121.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="views.mediaAdmin.MediaAddFrame">
+      <point x="-38.0" y="-92.0" />
+      <point x="1563.208333333334" y="7036.0" />
+      <point x="843.697754877423" y="7036.0" />
+      <point x="843.697754877423" y="2953.0" />
+      <point x="1112.7178564272954" y="2953.0" />
+      <point x="-151.19999999999982" y="223.0" />
+    </edge>
+    <edge source="views.Admin.Sales.MediaSaleList" target="views.Admin.Sales.MediaSaleItemPanel">
+      <point x="119.33333333333303" y="-63.5" />
+      <point x="5169.054487179487" y="3599.0" />
+      <point x="5097.968338729359" y="3599.0" />
+      <point x="23.25" y="179.5" />
+    </edge>
+    <edge source="views.Admin.User.CreateAccountPanel" target="controller.User.UserController">
+      <point x="123.375" y="-106.5" />
+      <point x="8339.110042735043" y="3539.0" />
+      <point x="9009.3076610671" y="3539.0" />
+      <point x="-144.625" y="164.5" />
+    </edge>
+    <edge source="views.Admin.User.ViewInformation" target="model.User.User">
+      <point x="-24.4375" y="-92.0" />
+      <point x="10963.529096186754" y="2883.0" />
+      <point x="9724.07345610024" y="2883.0" />
+      <point x="-104.125" y="150.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.Admin.Sales.SaleListPanel">
+      <point x="11.305555555555657" y="-135.5" />
+      <point x="6027.90170940171" y="4781.0" />
+      <point x="6062.096153846154" y="4781.0" />
+      <point x="-80.5" y="63.0" />
+    </edge>
+    <edge source="views.cart.ChangeAddress" target="model.User.User">
+      <point x="-73.39999999999964" y="-223.0" />
+      <point x="12087.114372287793" y="2713.0" />
+      <point x="9932.32345610024" y="2713.0" />
+      <point x="104.125" y="150.5" />
+    </edge>
+    <edge source="views.cart.DeliveryPanel" target="views.cart.ChangeAddress">
+      <point x="-71.0625" y="-121.5" />
+      <point x="12332.963641219892" y="4146.0" />
+      <point x="12303.347705621125" y="4146.0" />
+      <point x="12303.347705621125" y="3549.0" />
+      <point x="12252.264372287793" y="3549.0" />
+      <point x="91.75" y="223.0" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Cart.CartItem">
+      <point x="170.22222222222217" y="-150.5" />
+      <point x="3222.672937174719" y="2973.0" />
+      <point x="7609.346153846154" y="2973.0" />
+      <point x="7609.346153846154" y="1405.0" />
+      <point x="9710.52357015801" y="1405.0" />
+      <point x="-78.90909090909008" y="194.0" />
+    </edge>
+    <edge source="views.account.UserPanel.AccountPanel" target="aims.AIMS">
+      <point x="-139.33333333333394" y="121.0" />
+      <point x="10143.081038954459" y="5262.0" />
+      <point x="8847.88595610024" y="5262.0" />
+      <point x="8847.88595610024" y="5954.0" />
+      <point x="8954.085042735043" y="5954.0" />
+      <point x="-8.699999999999818" y="-33.5" />
+    </edge>
+    <edge source="views.cart.DeliveryPanel" target="model.User.User">
+      <point x="-118.4375" y="-121.5" />
+      <point x="12285.588641219892" y="4126.0" />
+      <point x="11869.914372287793" y="4126.0" />
+      <point x="11869.914372287793" y="2733.0" />
+      <point x="9907.82345610024" y="2733.0" />
+      <point x="79.625" y="150.5" />
+    </edge>
+    <edge source="views.Admin.User.CreateAccountPanel" target="model.User.Account">
+      <point x="-41.125" y="-106.5" />
+      <point x="8174.610042735043" y="2903.0" />
+      <point x="9467.02357015801" y="2903.0" />
+      <point x="-22.90909090909099" y="121.0" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaItemPanel" target="model.Media.Media">
+      <point x="-93.0" y="106.5" />
+      <point x="2162.59654828583" y="3599.0" />
+      <point x="2073.2471848832065" y="3599.0" />
+      <point x="2073.2471848832065" y="6151.0" />
+      <point x="3317.8495370370374" y="6151.0" />
+      <point x="-57.96296296296305" y="-382.5" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="model.User.User">
+      <point x="192.19444444444434" y="-135.5" />
+      <point x="6208.790598290599" y="4861.0" />
+      <point x="8695.043735554755" y="4861.0" />
+      <point x="8695.043735554755" y="4096.0" />
+      <point x="9984.804096186754" y="4096.0" />
+      <point x="9984.804096186754" y="2903.0" />
+      <point x="9711.82345610024" y="2903.0" />
+      <point x="-116.375" y="150.5" />
+    </edge>
+    <edge source="views.account.Login" target="controller.User.UserController">
+      <point x="-66.42857142857065" y="-135.5" />
+      <point x="9546.03417693418" y="5603.0" />
+      <point x="9486.5881799992" y="5603.0" />
+      <point x="9486.5881799992" y="3599.0" />
+      <point x="9165.0576610671" y="3599.0" />
+      <point x="11.125" y="164.5" />
+    </edge>
+    <edge source="views.account.SignUp" target="views.account.Login">
+      <point x="31.08333333333394" y="92.0" />
+      <point x="9830.324929520088" y="5603.0" />
+      <point x="9678.89131979132" y="5603.0" />
+      <point x="66.42857142857065" y="-135.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaAddFrame" target="model.Media.LP">
+      <point x="-96.0" y="-223.0" />
+      <point x="1167.9178564272952" y="2148.0" />
+      <point x="1196.333333333334" y="2148.0" />
+      <point x="-65.16666666666652" y="194.0" />
+    </edge>
+    <edge source="views.MediaList.mediaItem" target="model.Media.Media">
+      <point x="-143.625" y="150.5" />
+      <point x="2908.825714952497" y="3599.0" />
+      <point x="2951.200714952497" y="3599.0" />
+      <point x="2951.200714952497" y="6111.0" />
+      <point x="3364.219907407408" y="6111.0" />
+      <point x="-11.59259259259261" y="-382.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="model.Media.Book">
+      <point x="-152.0" y="-92.0" />
+      <point x="1449.208333333334" y="7066.0" />
+      <point x="270.9206715440905" y="7066.0" />
+      <point x="270.9206715440905" y="2138.0" />
+      <point x="280.5625" y="2138.0" />
+      <point x="-155.4375" y="266.5" />
+    </edge>
+    <edge source="controller.Sale.SalesController" target="model.Sale.Sale">
+      <point x="0.0" y="-33.5" />
+      <point x="5971.096153846154" y="3599.0" />
+      <point x="6045.596153846154" y="3599.0" />
+      <point x="-72.75" y="165.0" />
+    </edge>
+    <edge source="controller.Media.MediaController" target="model.Media.Media">
+      <point x="60.375" y="135.0" />
+      <point x="3620.3750000000005" y="2148.0" />
+      <point x="3564.8721848832056" y="2148.0" />
+      <point x="3564.8721848832056" y="6111.0" />
+      <point x="3387.405092592593" y="6111.0" />
+      <point x="11.59259259259261" y="-382.5" />
+    </edge>
+    <edge source="views.mediaAdmin.MediaListPanel" target="aims.FormatNumber">
+      <point x="152.0" y="-92.0" />
+      <point x="1753.208333333334" y="7116.0" />
+      <point x="7696.735042735043" y="7116.0" />
+      <point x="7696.735042735043" y="2138.0" />
+      <point x="7813.002068888089" y="2138.0" />
+      <point x="31.22222222222217" y="92.0" />
+    </edge>
+    <edge source="views.Admin.HomePanel" target="views.MediaList.mediaListPanel">
+      <point x="-146.97222222222263" y="-135.5" />
+      <point x="5869.623931623932" y="4831.0" />
+      <point x="4468.3890102734495" y="4831.0" />
+      <point x="79.75" y="222.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.14144565782631308" x="2948.94899281423" y="7142.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
